@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293269229171",
+    "project_id": "login-b2525",
+    "storage_bucket": "login-b2525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293269229171:android:e1076d2d092bb74ac3a406",
+        "android_client_info": {
+          "package_name": "com.example.exercice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToLQSWyM4geTP3FQaE0g4w8_EUqRw2_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293269229171:android:71765aa678f8e52cc3a406",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToLQSWyM4geTP3FQaE0g4w8_EUqRw2_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
